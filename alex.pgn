@@ -1,0 +1,24 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.03.15"]
+[Round "?"]
+[White "jon_the_fish"]
+[Black "alexbjcs"]
+[Result "0-1"]
+[ECO "C51"]
+[WhiteElo "1344"]
+[BlackElo "1340"]
+[TimeControl "600"]
+[EndTime "16:04:21 PDT"]
+[Termination "alexbjcs won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. Nxe5 Nxe5 6. a3 Ba5 7. Ba2 Nf6 8.
+Bb2 d6 9. f3 O-O 10. O-O Be6 11. Bxe6 fxe6 12. d4 Bb6 13. Kh1 Ng6 14. Nc3 e5 15.
+dxe5 dxe5 16. a4 Bd4 17. a5 Bxc3 18. Bxc3 Qxd1 19. Rfxd1 b6 20. Bb4 Rfd8 21.
+Rxd8+ Rxd8 22. axb6 axb6 23. Ra7 Rd7 24. g3 Kf7 25. h4 Ne7 26. Rb7 c5 27. Rxd7
+Nxd7 28. Ba3 Ke6 29. c4 Nc6 30. Kh2 Nd4 31. f4 exf4 32. gxf4 Ne2 33. f5+ Ke5 34.
+Bb2+ Nd4 35. Kg3 Kxe4 36. Kg4 Nxf5 37. h5 Ne5+ 38. Kg5 Ne7 39. h6 gxh6+ 40. Kxh6
+Nxc4 41. Bf6 Nd5 42. Bg7 b5 43. Bf8 Kd4 44. Kxh7 b4 45. Kg6 b3 46. Bg7+ Kd3 47.
+Kg5 b2 48. Bxb2 Nxb2 49. Kf5 c4 50. Ke5 c3 51. Kxd5 c2 52. Kc5 c1=Q+ 53. Kb5 Kd4
+54. Kb4 Qc4+ 55. Ka3 Qc8 56. Kxb2 Kd3 57. Kb3 Qb8+ 58. Ka4 Kc3 59. Ka5 Kc4 60.
+Ka6 Kc5 61. Ka5 Qb5# 0-1

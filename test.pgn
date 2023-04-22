@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2017.09.22"]
+[Round "?"]
+[White "MiguelAngel260"]
+[Black "bujosa2014"]
+[Result "0-1"]
+[ECO "E20"]
+[WhiteElo "2043"]
+[BlackElo "1979"]
+[TimeControl "600"]
+[EndTime "11:50:27 PDT"]
+[Termination "bujosa2014 won by checkmate"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bf4 O-O 5. e3 c5 6. d5 Bxc3+ 7. bxc3 Qa5 8. Qc2
+exd5 9. cxd5 Nxd5 10. Be5 Re8 11. Nf3 Nc6 12. Bd6 Re6 13. Bg3 Nxc3 14. Qd2 b5
+15. Rc1 b4 16. Bc4 Ba6 17. Bxe6 dxe6 18. Ne5 Rd8 19. Qc2 b3 20. Qxc3 b2 21. Nxc6
+bxc1=Q# 0-1
